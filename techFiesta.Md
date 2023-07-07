@@ -179,3 +179,5 @@ Click on the `Join Hackathons` button in the lower left corner of your dashboard
 
 <!-- #### *Dashboard View*
 You can have an ariel view of your hackathons activities right from your dashboard by looking at `ongoing` projects, `completed` hackathons, and your `rewards`. Click on any of the activities for further exploration. You can also access your payment from the dashboard, as well as update your profile via settings. -->
+<!-- #### *Dashboard View*
+You can have an ariel view of your hackathons activities right from your dashboard by looking at `ongoing` projects, `completed` hackathons, and your `rewards`. Click on any of the activities for further exploration. You can also access your payment from the dashboard, as well as update your profile via settings. -->
