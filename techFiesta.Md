@@ -79,7 +79,7 @@ techFiesta leverages the power of blockchain technology through the use of an ER
 ## Getting Started
 
 
-### SignUp Login
+### SignUp / Login
 
 
 On your techFiesta homepage, there is a blue colored Signup button below two sign-up options. Click on it to sign up if you haven't created your techFiesta account yet. You have the option of signing up as a client or as a participant. A techFiesta client creates and sponsors hackathons, while the participants are top talents who provide solutions for the Client's innovative challenges.
@@ -93,7 +93,7 @@ Now that you have joined techFiesta, you will be required to log in to your acco
 Your account has two major layouts: A header section and a container.
 
 
-### The Header
+### The Header Section
  
 Herein contained two components: the techFiesta logo on the left side of your screen and a `Connect Your Wallet` feature on the right. If you want to explore the techFiesta Homepage, click on the logo and it will take you straight home.
 
@@ -108,14 +108,14 @@ Herein contained two components: the techFiesta logo on the left side of your sc
 This section is best discussed under the two techFiesta accounts that are available: The Client's and the Participant's accounts.
 
 
-#### techFiesta Client's Account:
+#### techFiesta Client Account:
 In the main section of your techFiesta client account, you have a sidebar containing two components by the left, and to the right is a container that displays the contents of the sidebar components.
 Your sidebar components are: `Dashboard` and `Settings`.
 
 
 
 
-##### The Dashboard
+##### Dashboard
 Your dashboard has three sections: top; middle and bottom. The top section is a banner that displays a welcome message and contains your most important button as a techFiesta client. That is the `Create Hackathon` button. It is positioned in the lower-left corner of the banner. Before you can start creating hackathons though, ensure that you have connected your wallet and set up your profile. Ready? Now, click on the Create hackathon button and follow the prompts until you submit your project to the admin for review. Once you get to this stage, know that you have completed your hackathon creation process. So, you stick around your notification to know when your project is approved by the admin.
 
 
@@ -127,7 +127,7 @@ The middle section of your dashboard is a flex display of three cards, each cont
 The bottom section of your dashboard has two columns. The upper one houses a search field in which you can readily input the name of your hackathon for a quick search. The lower column houses the display parameters for your search. These parameters include the hackathon's `Title`, the `Bounty` that has been proposed for the hackathon, the `Status` as active or ended, and the `Submission deadline` stipulated for the hackathon. So, with one search, you can have these really important details of the project displayed to you.
 
 
-##### The Settings
+##### Settings
 This is the second component of your techFiesta sidebar. Click on the settings to manage your account information; including your personal and company details. Ensure to save any changes you make in order for your data to be updated.
 
 
@@ -142,7 +142,7 @@ Your dashboard gives you an ariel view of the following activities; `All Partici
 
 The sidebar of your dashboard have `History` and `Settings`. With history, you can easily track all of your hackathon transactions, and you can generate payment receipt for each payout. And with settings, you can update your profile information as necessary.  -->
 
-#### techFiesta Participant's Account
+#### techFiesta Participant Account
 
 
 In the main section of your techFiesta participant account, you have a sidebar on the left and a container that displays the sidebar components on the right.
