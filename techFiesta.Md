@@ -12,15 +12,15 @@ Outline
 
 
 ## Overview
-Welcome to techFiesta! This is a hackathon platform that brings together talented developers, designers, writers, and tech enthusiasts from around the world. This documentation provides a comprehensive guide to navigating the techFiesta platform so that you can make the most of your hackathon experience. You will understand the `key features` that have been designed to enhance your hackathon experience. 
-`Getting started` with techFiesta Hackathon is easy and straightforward. Whether you are `joining as a client or a participant`, we provide clear guidelines to help you enjoy your hackathon journey. From account creation to creating or participating in a hackathon, you are sure to have a seamless experience. 
+Welcome to techFiesta! This is a platform that brings together talented developers, designers, writers, and tech enthusiasts from around the world. This documentation provides a comprehensive guide to navigating the techFiesta platform so that you can make the most of your techFiesta experience. You will understand the `key features` that have been designed to enhance your experience. 
+`Getting started` with techFiesta is easy and straightforward. Whether you are a client or a participant, we provide clear guidelines to help you enjoy your techFiesta journey. From homepage through account creation to creating or participating in a techFiesta, you are sure to have a seamless experience.
 
-To participate in the techFiesta Hackathon, you need to `create an account`. Account creation is quick and hassle-free, and your account serves as a gateway to a metaverse of exciting opportunities and connections. Once you have an account, you can access all the features of the platform. If you are passionate about a particular domain or have a problem you want to address, with techFiesta Hackathon, `you can create your own hackathons`! By hosting a hackathon, you have the chance to bring together like-minded individuals, define a challenge, and witness the creative solutions that emerge. Let your entrepreneurial spirit shine and inspire others through your own techFiesta hackathon. Ready to collaborate with fellow tech enthusiasts? `Joining hackathons` on techFiesta is simple. Browse through the available challenges, explore their requirements and objectives, and join the ones that align with your interests and skills. You also get to join amazing communities, while creating something extraordinary. Lastly, at techFiesta, we appreciate and recognize your engagement. `You can earn exciting rewards`, including innovative solutions, cash prizes, career opportunities, and exposure to industry experts. 
-This documentation is your sure guide to maximum benefits as you engage in the techFiesta hackathon platform. We're excited to have you on board and can't wait to witness the innovative solutions you create.
+To participate in techFiestas, you need to `create an account`. Account creation is quick and hassle-free, and your account serves as a gateway to a metaverse of exciting opportunities and connections. Once you have an account, you can access all the features of the platform. If you are passionate about a particular domain or have a problem you want to address, with techFiesta, `you can create your own techFiestas`! By hosting an event, you have the chance to bring together like-minded individuals, define a challenge, and witness the creative solutions that emerge. Let your entrepreneurial spirit shine and inspire others through your own techFiesta. Ready to collaborate with fellow tech enthusiasts? Joining techFiestas is simple. Browse through the available challenges, explore their requirements and objectives, and join the ones that align with your interests and skills. You also get to join amazing communities, while creating something extraordinary. Lastly, on techFiesta, we appreciate and recognize your engagement. `You can earn exciting rewards`, including innovative solutions, cash prizes, career opportunities, and exposure to industry experts. 
+This documentation is your sure guide to maximum benefits as you engage on the techFiesta platform. We're excited to have you on board and can't wait to witness the innovative solutions that you create.
 
-### Introduction
+## Introduction
 
-techFiesta is a vibrant Web3 hackathon platform that mediates between companies and creatives to foster innovation in the tech space. Studies show that a company can remain competitive in its industry through continuous innovation through hackathons. techFiesta, therefore, is a seamless attraction for such innovation-driven companies and top creative experts to meet and solve a common problem, increase their brand visibility, and have fun. Clients can improve their companies' competitive advantage through insights provided by participants. And participants get to showcase their skills, collaborate with others, and compete for rewards while exploring possibilities on a decentralized platform.
+techFiesta... is it the platform or the events? The answer is yes! techFiesta is a vibrant Web3 events `platform` that mediates between companies and creatives to foster innovation in the tech space. Did you know that a company can remain competitive in its industry through continuous innovation through hackathons? techFiesta, therefore, is a seamless attraction for such innovation-driven companies and top creative experts to meet and solve a common problem, increase their brand visibility, and have fun. Clients can improve their companies' competitive advantage through insights provided by participants. And participants get to showcase their skills, collaborate with others, and compete for rewards while exploring possibilities on a decentralized platform. And yes, the `events` on the techFiesta platform, which are either `hackathons or developers challenges` are also called techFiestas. So, don't get confused when you see the words inter-used.
 
 
 ## Key Features
@@ -84,110 +84,202 @@ techFiesta leverages the power of blockchain technology through the use of an ER
 ## Getting Started
 
 
-### SignUp / Login
+
+### Sign Up to techFiesta
+To participate in the events hosted on the techFiesta platform, you are required to go through a very seemless sign-up process. The following steps detail the information required and the actions that are required of you during the sign-up phase.
+
+1. Sign up page: On the techFiesta homepage, click on Sign up on the navigation menu, or start hacking on the banner. This will take you to the sign up screen.
+
+2. Enter Email: Initiate the sign-up process by entering your email address. This serves as the primary point of contact and the unique identifier for your techFiesta account.
+
+3. Enter Password: Create your password. Just enter your preferred combination into into the provided input field.
+
+4. Confirm Password: To prevent input errors, you are required to confirm your chosen password by entering it a second time. So that we can ensures the accuracy of your provided password.
+
+5. Terms of Service Agreement: Before proceeding, you are required to review and accept the Terms of Service agreement. This document outlines the rules, guidelines, and obligations that you have to adhere to while using the techFiesta platform.
+
+6. Join as a Participant: After entering the required information and accepting the Terms of Service, proceed by clicking the 'Join as a Participant' button. You will see a pop up asking that you verify your email.
+
+7. Verify Your Email: A verification email is sent to your provided email address. Access your email inbox, locate the verification message, and follow the provided link to confirm your registration. Upon successful email verification, you are automatically redirected to the techFiesta login page.
 
 
-On your techFiesta homepage, there is a blue colored Signup button below two sign-up options. Click on it to sign up if you haven't created your techFiesta account yet. You have the option of signing up as a client or as a participant. A techFiesta client creates and sponsors hackathons, while the participants are top talents who provide solutions for the Client's innovative challenges.
-Once you determine your role, go ahead and sign up using your preferred account from the options. The available options are Metamask, Apple, and Google. If you do not have or do not want to use any of the above-listed accounts for your authentication, you can sign up with your name, email, and password.
+### Login to your techFiesta Account
+This is your gateway to accessing your techFiesta account and participating in events. Here is a detailed guide on the login authentication procedure.
 
+1. Enter the email address that you have used to create your techFiesta account.
 
-Now that you have joined techFiesta, you will be required to log in to your account so that you can have access to your dashboard. So, click on the login button and select the account that you used to sign up. Your authentication will only take a few seconds, after which you can access your techFiesta account.  
+2. Enter your corresponding password.
+   
+3. Keep Me Logged In: For your convenience, techFiesta offers a 'Keep me logged in' option. Enable this feature to remain authenticated on your device. This will reduce the need for repeated logins. However, you are advised to use this option judiciously, especially on shared or public devices, to ensure account security.
+   
+4. Forgot Password: In case you forget your password, the 'Forgot Password' option provides a secure password recovery mechanism. Click on this link to initiate your password reset process so that you can regain access to your account.
+   
+5. Login: Click on the 'Login' button to finalize the login process. This action triggers the system to authenticate the provided credentials and grant access to your account.
+
+Upon successful login, you are directed to your personalized dashboard where you can have a comprehensive and engaging experience within the techFiesta platform.
+  
 
 
 ## techFiesta Accounts
 Your account has two major layouts: A header section and a container.
 
-
-### The Header Section
- 
+**The Header Section**
 Herein contained two components: the techFiesta logo on the left side of your screen and a `Connect Your Wallet` feature on the right. If you want to explore the techFiesta Homepage, click on the logo and it will take you straight home.
 
+ **Connect Your Wallet.**
 
-#### Connect Your Wallet.
  Look to the top right corner of your screen, and you will see the connect your wallet prompt. Click on it to select your preferred wallet from the listed options. Ensure that you follow through with your connection process as this is the only way you can payout rewards to participants, or receive payments from clients after winning a hackathon. In case you are not very familiar with digital wallets, you can learn more about them from the blogs on the right side of the wallet listing.
 
 
-### The Main section
+**The Main section**
+
+This section is best discussed under the three techFiesta accounts that are available: The User, the Client, and the Admin accounts.
 
 
-This section is best discussed under the two techFiesta accounts that are available: The Client's and the Participant's accounts.
+### techFiesta User Account:
+On the left side of the main section of your techFiesta user account are your menu options. And on the right is where the content of each selected option is displayed. Your account menu options are: `Dashboard`, `Settings`, and `Logout`. Let's have a look at each of them.
 
+#### User Dashboard:
+Your user dashboard is the default landing page upon logging into your techFiesta account. It first offers an overview of your engagement with techFiesta. Then it goes further to add more context. 
 
-#### techFiesta Client Account:
-In the main section of your techFiesta client account, you have a sidebar containing two components by the left, and to the right is a container that displays the contents of the sidebar components.
-Your sidebar components are: `Dashboard` and `Settings`.
+* Statistics
 
+Below the welcome message on your dashboard is a card that provides a clear summary of your participation in both active and completed techFiestas. It gives a concise overview of ongoing techFiestas as well as a record of completed events.
 
+* All techFiestas
 
+Scroll down a little to find the all techFiesta preview. For a detailed exploration of all techFiestas, click on the ‘View More’ button and get redirected to the full techFiesta listing page. We have previously gone through the components of a techFiesta listing, one of which is the Start Hacking button. Lets now get deeper into this button and walk you through how you can actually register and participate in a techFiesta.
 
-##### Dashboard
-Your dashboard has three sections: top; middle and bottom. The top section is a banner that displays a welcome message and contains your most important button as a techFiesta client. That is the `Create Hackathon` button. It is positioned in the lower-left corner of the banner. Before you can start creating hackathons though, ensure that you have connected your wallet and set up your profile. Ready? Now, click on the Create hackathon button and follow the prompts until you submit your project to the admin for review. Once you get to this stage, know that you have completed your hackathon creation process. So, you stick around your notification to know when your project is approved by the admin.
+##### Start Hacking.
 
+On the techFiesta listing card is a "Start Hacking" option.  Click on this to see more details of that particular techFiesta in the details page. On the techFiesta details page, you will see a well-organized interface of three key sections.
 
-The middle section of your dashboard is a flex display of three cards, each containing one of the following hackathon activities: `All Participants`, `Ongoing`, and `Completed`. Think of this middle section as an executive summary of the said activities. So you get to have an overview of all the participants of your hackathons, your ongoing hackathons (which is by the way, one at a time), and all of your hackathons that have been completed, displayed on their respective cards. This section comes in very handy when you want to breeze in and out of your dashboard for a quick update. More so, each of these cards is clickable to reveal more details of the activities.
+1. Details and Share Options: the uppermost  section displays the name and logo of the techFiesta’s host organization. This offers you a quick identification reference. Then, below it are options that enables you to share the techFiesta details on social platforms such as Twitter and Telegram. Additionally, a direct link is provided for easy dissemination.
 
+2. and Dates: The mid-section of the details page showcases the prize pool available for the winning participants. Here also is where critical timelines, including the start date, submission deadline, and end date are specified. This ensures that you are well-informed about the techFiesta schedule.
 
+3. The lower section of the details page encompasses essential information for participants to kickstart their hacking journey. Click on each of the options; that is, the overview, submission criteria, events and submit your result, to access more information. In the overview, you will be informed about the theme, objectives, and any specific guidelines for the techFiesta. The submission criteria outlines the requirements and criteria for submitting projects. So, ensure to read through and align yourself with the techFiesta's goals. The events highlights any supplementary events or activities associated with the hackathon. And then, you have the submit your result where you can provide the link to your proffered solution.
+   
+##### Participate in techFiestas
+To streamline the payout process, techFiesta incorporates blockchain technology through wallet integration as the first step in your registration process for an event. Here's a detailed walkthrough:
 
+**Connect your wallet**
 
-The bottom section of your dashboard has two columns. The upper one houses a search field in which you can readily input the name of your hackathon for a quick search. The lower column houses the display parameters for your search. These parameters include the hackathon's `Title`, the `Bounty` that has been proposed for the hackathon, the `Status` as active or ended, and the `Submission deadline` stipulated for the hackathon. So, with one search, you can have these really important details of the project displayed to you.
+Click on 'Connect Your Wallet' located just below the options on the lower section of the details page. This button initiates the wallet connection process. Choose your preferred wallet type from these options: Metamask, Coinbase, or Wallet Connect. Follow the prompts to complete the authentication and connection. Once this is done, navigate back to the details page and continue with registration.
 
+**Register**
 
-##### Settings
-This is the second component of your techFiesta sidebar. Click on the settings to manage your account information; including your personal and company details. Ensure to save any changes you make in order for your data to be updated.
+A 'Register' button replaces the 'Connect Your Wallet' button once your wallet is authenticated. Once you click this button, you are registered for the techFiesta, and you will get a pop-up that confirms your registeration. So now what? Now you should go and document your solution for submission. 
 
+**Submit your result**
 
+Ensure to adhere to the techFiesta's guidelines and objectives when compiling your solution. When you are ready, navigate to the ‘Submit your result’ option on the details page, and input the link to your project, typically hosted on platforms like GitHub, Google Docs, or Google Drive. Click on the 'Submit' button positioned adjacent to the input field. That's it. You have submitted your result. You will receive a pop-up acknowledgment, providing immediate feedback on your successful submission. Also, you will receive an email confirmation, serving as an confirmation of your submission.
 
-<!-- The information that is required for a client to complete their profile setup are your, Name, position, company name, payment information, profile picture and your company description. Once you are done filling out those, your dashboard will render to let you create a hackathon, and also to display your hackathon activities.  -->
+* My Projects
+  
+You can monitor and manage your hackathon journey through 'My Projects' on your dashboard. This section is only dynamically rendered above the 'All techFiesta' section when you start participating in projects. So, as a new user on techFiesta, you may not see this section on your dashboard yet. But now that you have become a participant in an event, you can track the status of your registered techFiestas from “My Projects”. You can also distinguish between 'Active,' 'In-Review,' or 'Ended’ techFiestas, allowing you to stay informed about the progress and outcome of the event.
 
+### techFiesta Client Account
 
+As a techFiesta hosts or organizer, you can create your account to manage and oversee your events on techFiesta. To sign up as a client, navigate to `Create techFiestas` on the footer section of the techFiesta homepage. Ensure to follow this route, otherwise, you will create a participant account if you use the address described for the participant. However, the guideline is the same as for the participant. So, go ahead to Sign up and Login to your account as we discuss your menu.
 
-<!-- #### *Dashboard View*
+#### Client Dashboard
 
-Your dashboard gives you an ariel view of the following activities; `All Participants`, `Ongoing`, `Completed`, `Reward Distributed`, and `All Hackathons`. You can click on each of these activities for more exploration. For instance, click on `All Hackathons` to view all the projects that you have launched, including closed project. You can further access and explore the details of each project such as; name, duration, description, target audience, number of participants and status. select a particular project, and click on the `participants`. This will reveal all the participants that have registered for that particular hackathon. There in, you can view the submissions and input scores for participants who have submitted their task. After the submission deadline, you then `confirm payout` for the hackathon winners based on your grading criteria.
+Your client dashboard serves as the nerve center, offering an at-a-glance summary of crucial information. 
 
-The sidebar of your dashboard have `History` and `Settings`. With history, you can easily track all of your hackathon transactions, and you can generate payment receipt for each payout. And with settings, you can update your profile information as necessary.  -->
+* Statistics
 
-#### techFiesta Participant Account
+First, you have a card summarizing the total number of participants across all hosted techFiestas on the one side, an overview of the currently active techFiestas that gives you real-time monitoring in the center, and a statistics of concluded techFiestas, offering insights into the historical performance and outcomes on other end. By the right of this card is a create techFiesta button. 
 
+##### Create techFiesta
 
-In the main section of your techFiesta participant account, you have a sidebar on the left and a container that displays the sidebar components on the right.
-Your sidebar has three components: `Dashboard`, `Hackathons`, and `Settings`.
+The "Create techFiesta" feature empowers you to initiate and organize techFiestas effortlessly. Upon selecting this option, you are guided through a detailed process to set up your techFiesta. This includes defining your event name, specifying the bounty or prize pool, setting submission deadlines, and configuring other relevant details to tailor the techFiesta to their specific requirements. Let’s get deeper into each of these events.
 
+**Launch:** Your first step in creating a techFiesta is to select your launch options. techFiesta provides flexibility for you to launch your hackathon either on-chain or off-chain. This allows you to choose the level of blockchain integration, while giving you the flexibility to payout the bounties in your native token if you wish. Then, choose the blockchain network on which your techFiesta will operate, your options are Ethereum or Polygon. Then, specify the reward token for your techFiesta, selecting from these options: USDC, HMT, MGH, USDT, or DAI. Click next.
 
-##### Dashboard
-This is the top-most component on your techFiesta account sidebar. It displays in a container of two sections by the right of the sidebar. The top section is a banner that displays a welcome message and houses your key to actually participating in hackathons on the techFiesta platform. This key is the `Join Hackathon` button positioned in the left lower corner of the banner. Click on the button to access all the hackathons that are listed on the techFiesta platform. Then go ahead to select and register for a project that matches your skill stacks.
+**Details:** Input essential details about your techFiesta in dedicated fields as such:
+techFiesta Name: A concise and clear title for the techFiesta.
+techFiesta Details: A comprehensive description outlining the theme, goals, and any specific guidelines for participants.
+Set Date and Time: Specify the start date, submission deadline, and end date of the techFiesta. Click next.
 
+**Rewards:** How many participants do you want to reward? select the number of participants that you wish to reward for their contributions to your techFiesta and input the reward amount in the pop-up field. Click next
 
-The lower section is a flex display of two cards. Each card contains and summarizes either of these hackathon activities: `Ongoing` and `Completed` hackathons. This section comes in very handy when you want to breeze in and out of your dashboard for a quick update. More so, the cards are clickable to reveal more details of the activities.
+**Criteria:** Write submission requirements. Articulate the specific requirements for the project submissions. Click next
 
+**Events:** Provide detailed information about any supplementary events or activities associated with your techFiesta, specifying relevant dates and times. Click Save to finalize the creation of your techFiesta.
 
-#### Hackathons
-This is the second component of your sidebar. Click on this component to access all of techFiesta's hackathon listings. The listing is displayed under the following parameters: `Company`, `Title`, `Status`, and `Bounty`. With these, you can easily view the hackathon title and select the company that you want to work with. You can also see if the hackathon is still active or has ended, and how much bounty the client is willing to pay.
+Upon successfully completing all the steps, you will receive a pop-up confirmation, affirming the successful creation of your techFiesta. The event which you have created will appear as a request on the admin account for editing and publishing.
 
-<!-- ### Participants Dashboard. 
+* My techFiestas
+  
+Back on your dashboard, scroll down to find my techFiestas. This section provides a comprehensive overview of all the techFiestas you have created. This displays in a tabular representation to facilitates easy tracking and management of multiple techFiestas simultaneously. The displayed techFiesta features include the following:
 
-After logging in as a techFiesta participant, you get to setup your profile by providing your `name`, `skill stack`, and `payment information`.     The payment information section is a provision for you to `connect your wallet` in order to receive your hackathon rewards. You have the option to choose any of the `supported wallets`, and you can also `switch account`.
-You can register for a hackathon, and also view your hackathon activities right on your dashboard. -->
+*Name:* Clearly states the title of each techFiesta.
 
-## Create Hackathon
-To create a hackathon, you have to submit a detailed profile of your intended project. The required details are the `name` of your hackathon; a `description` of the project; the `duration` of the hackathon, including `a start and end date`; a `submission deadline` which should quicken participants' engagement and your reward proposal for the hackathon. The reward proposal is basically the `price details` like the `prize amount`, `number of prizes`, and `the winning criteria` that you will fill out while creating your hackathon.
-Other required details of the hackathon creation profile include your `target audience`, `resources` that participants will use for execution, `rules and regulations` of the project, and the `sponsor details`.
-Once you provide all of this information, you will submit the proposal for approval after which you can go ahead and `launch`. You can decide to either launch immediately, schedule your launch, or save the project to your draft until you are ready to launch.
+*Bounty:* Displays the total prize pool that you have allocated for each hackathon. This allows you to track your incentive distribution.
 
+*Submission Deadline:* Highlights the crucial deadline by which participants must submit their projects.
 
+*Status:* Indicates the current state of each techFiesta, whether it is 'Active,' 'Upcoming,' or 'Completed.'
 
+### techFiesta Admin Account
+The admin account on techFiesta provides the administrator with tools and insights to oversee the platform's operations, manage users, and facilitate the seamless execution of techFiestas. Here are the admin menu options:
 
-## Join Hackathons
+#### Admin Dashboard
+* Statistics
 
+The admin dashboard features a card presenting a comprehensive summary of all techFiesta platform users. This card includes a functionality to download the emails of all users, offering administrators a tangible database.
 
-Click on the `Join Hackathons` button in the lower left corner of your dashboard banner. This will grant you access to hackathon listings. To register in a hackathon, go through the listing and select anyone that fits your skill stacks. Go ahead and fill out the registration form for the hackathon. Upon registration completion and acceptance, you will get a notification from the client that acknowledges your joining the hackathon. Once you are in, you can access the hackathon resources including the documentation and community. Ensure to submit your task using the provided link before the deadline so that you can be scored to get your result. You will get updated on your performance via a notification on the sidebar of your dashboard. Once you win a hackathon, you get the allotted reward paid into the wallet address you submitted during registration.
+* All techFiestas 
 
-<!-- #### *Dashboard View*
-You can have an ariel view of your hackathons activities right from your dashboard by looking at `ongoing` projects, `completed` hackathons, and your `rewards`. Click on any of the activities for further exploration. You can also access your payment from the dashboard, as well as update your profile via settings. -->
+A tabular display provides the admin with a detailed overview of all techFiestas hosted on the platform. This table of techFiestas shows the following information:
+
+*Sponsors:* The sponsors associated with each techFiesta, providing visibility into the collaborative partnerships supporting the events.
+
+*Name:* Administrators can view and click on a techFiesta name to access the landing page, enabling them to edit, publish, or unpublish the techFiesta.
+
+*Bounty:* Displays the prize pool allocated for each techFiesta.
+
+*Participants:* Offers insights into the number of participants involved in each techFiesta.
+
+*Download Functionality:* There is also a button with which the admin can download the participant details for a specific techFiesta.
+
+*Status:* Indicates the current state of each hackathon including active, pending and ended events. With pending events for instance, the admin can check out why the event is yet to be published and take the necessary actions.
+
+#### Requests
+
+This menu option opens up to all the requests received from clients who have created techFiestas. Administrators can efficiently manage and respond to these requests, ensuring effective communication and collaboration with clients. 
+
+#### Invite Users
+
+Administrators have the capability to invite users to the techFiesta platform. Using the 'Invite Users' functionality, they can upload an Excel document containing names and emails. On clicking the invite button after selecting the invitees, a techFiesta account is created for these users. The credentials for their access to the account is then sent via email, and they can login and change the associated one time password to their preferred combination.
+
+#### Settings:
+Except for a few variations, this menu option is the same for the user, client and admin. So lets have a look. As an account owner on the techFiesta platform, the settings option on your side menu gives you various access to customize your experience and manage account-related details. Your settings options includes:
+
+**My Profile** 
+
+Update and modify your personal or company’s information through the 'My Profile' settings. This includes details such as your profile picture, name and personal website if you are an admin or a participant, or your logo, company name and your company’s website URL if you are a client. 
+
+**Password** 
+
+For security purposes, you can change and update your login credentials through the 'Password' settings.
+
+**Notification**
+
+Your notification preferences through the 'Notification' settings. You can tailor these alerts to receive updates and announcements according to their preferences.
+
+**Account** 
+
+Deactivate your account via the 'Account' setting.
+
+#### Logout
+
+This account menu option is also the same for the user, client and admin. Select this option when you want to sign out of your account. Upon clicking, you will get a pop-up message that reads 'Are you sure you want to sign out from your account?'. Go ahead and click on 'Sign Out' in the pop-up confirmation. Now, you are securely logged out from your techFiesta account.
 
 ## techFiesta Rewards: Bounties for innovative solution
 
-The clients and participants of techFiesta hackathons reap the benefits of a dynamic reward model for their innovative ideas and creative solutions.  
+The clients and participants of techFiesta reap the benefits of a dynamic reward model for their innovative ideas and creative solutions.  
 Clients have the opportunity to leverage the creative solutions and innovative ideas generated by the participants, while the participants receive monetary incentives for their creativity. However, for this to be achieved, both parties must connect their crypto wallet. Additionally, the techFiesta platform creates valuable opportunities for both clients and participants to increase their visibility within the broader tech community across different media platforms.
 
 ### Get and Connect Your Wallet
