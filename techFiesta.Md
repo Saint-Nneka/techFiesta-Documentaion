@@ -1,13 +1,13 @@
 Outline
 
 1. Overview
-2. Key Features
-3. Getting Started
-4. Accounts
-5. Create Hackathons
-6. Join Hackathons
-7. Rewards
-8. Smart Contract
+2. Introduction
+3. Key Features
+4. Getting Started
+5. Accounts
+6. Create techFiestas
+7. Start Hacking
+8. Rewards
 9. Conclusion
 
 
