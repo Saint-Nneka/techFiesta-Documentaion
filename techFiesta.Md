@@ -77,7 +77,7 @@ Clients at techFiesta benefit from the creative solutions and innovative ideas g
 
 ### Homepage
 
-The [techFiesta homepage](https://techfiesta.dev/) is organized to offer you a strategic entry point into the platform's multifaceted ecosystem. The navigation menu provides quick access to key sections including techFiestas, Sign up and Login. Then you have the main page content that briefs you on the techFiesta listing, the event sponsors, benefits of participating in a techFiesta, testimonials and FAQ. The bottommost section of your homepage is the footer section which contains essential links, consolidating the platform's presence across various channels. Lets have a better look at each of these sections.
+The [techFiesta ](https://techfiesta.dev/) homepage is organized to offer you a strategic entry into the platform's multifaceted ecosystem. The navigation menu provides quick access to key sections including techFiestas, Sign up and Login. Then you have the main page content that briefs you on the techFiesta listing, the event sponsors, benefits of participating in a techFiesta, testimonials and FAQ. The bottommost section of your homepage is the footer section which contains essential links, consolidating the platform's presence across various channels. Lets have a better look at each of these sections.
 
 [Click here for the detailed description of the homepage features](techFiesta-Homepage.Md)
 
