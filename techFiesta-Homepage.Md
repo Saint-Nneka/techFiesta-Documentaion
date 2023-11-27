@@ -53,3 +53,5 @@ Just before the footer section is the Frequently Asked Questions (FAQ) section. 
 
 Finally, the footer section displays our social media handles to give you easy access to connect and engaged with the techFiesta community. These social handles includes: [Telegram](https://t.me/+R2dFGg-iB5NlYzg0), [Discord](https://discord.gg/xn8XbxXem9), [Twitter](https://twitter.com/techFiesta_hack), [YouTube](https://youtube.com/@techFiesta_hack), [LinkedIn](https://www.linkedin.com/company/techfiesta/), and [Hashnode](https://techfiestablog.hashnode.dev/).
 We’ve also included the navigation menu down here so that you can access other pages without having to scroll all the way back up. More so, here on the footer is where you will find the [Terms and Conditions](https://techfiesta.dev/terms-and-conditions). Click on it to get yourself acquainted with the rules and guidelines governing your engagement on the techFiesta platform. Also explore the techFiesta’s identity, mission, and values when you click on the [Imprint](https://techfiesta.dev/imprint).
+
+[Go back to user guide documentation](techFiesta.Md)
