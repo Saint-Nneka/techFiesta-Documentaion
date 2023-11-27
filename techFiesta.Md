@@ -1,4 +1,3 @@
-
 # techFiesta User Guide
 
 ![techFiesta theme](https://res.cloudinary.com/dvwkqsotl/image/upload/v1700578775/techFiesta%20doc/techFiesta_theme_omwlm8.png)
