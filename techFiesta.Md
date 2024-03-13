@@ -12,7 +12,8 @@ Outline
 6. Create techFiestas
 7. Start Hacking
 8. Rewards/Benefits
-9. Conclusion
+9. Concordium Integration
+10. Conclusion
 
 
 ## Overview
@@ -280,6 +281,31 @@ However, if the client prefers to payout in their native token, they can use the
 
 ### Visibility
 Beyond the rewards of cash and solution, techFiesta offers a gateway to increased visibility within the tech community. Both clients and participants have the opportunity to network and showcase your talents, expertise, and innovative ideas to a wider audience across other media platforms and communities such as LinkedIn, medium and more. For clients, the platform becomes a stage where you can demonstrate your commitment to embracing innovation, attracting potential partners, investors, and customers who resonate with your values. Whereas, participants have the techFiesta platform as a launching pad for career opportunities, networking, and entrepreneurial prospects. 
+
+## Concordium Integration
+
+![](https://static.wixstatic.com/media/512e79_838f406dab3b4948ae39d8754889af8b~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,usm_0.66_1.00_0.01/512e79_838f406dab3b4948ae39d8754889af8b~mv2.png)
+
+techFiesta users and clients can enjoy several benefits with the Concordium wallet Integration. As a client, you can engage your events to the degree that your regulatory requirements allow. In other words, you can include or exclude specific countries from participating in your techFiestas.
+To implement this, techFiesta has included options that you can select to include or exclude countries in the techFiesta creation process.  You can leave these options unchecked if you prefer to allow all nationalities. Otherwise, select the option most suitable to you and proceed with the process to create your techFiesta.
+
+As a techFiesta user, you can join inclusive events. Due to regulatory requirements or host's preferences, participants from certain countries may be included or excluded from joining certain techFiestas. Such regulated techFiestas would require the user's identity verification with the Concordium wallet. If you are yet to download your Concordium wallet, [click on this link to download](https://www.concordium.com/wallet) from the official website. Once your nationality is verified, you can either be allowed to continue participating in the techFiesta or blocked from the project due to failure to meet the regulatory terms. 
+
+### SBT Awards
+
+In addition to the bounty reward for winning a techFiesta, all participants who successfully submit their solution gets awarded a participation SBT. Each techFiesta event has its categoric SBT. The different categories currently available include Education, Workshop, and Participation. 
+
+#### How to Claim your SBT
+After submitting the URL of your techFiesta solution, check your email inbox for a message regarding your SBT award from techFiesta. Then, follow this simple process to mint your token.
+
+1. `Click on the mint SBT button in the email`: Open the email and locate the "Mint SBT" button. Click on it to be redirected to the minting page.
+2. `Connect your Concordium wallet or download one`:  If you already have a Concordium wallet, connect it to the minting page. If you don't have a wallet, click on the [Download Concordium Wallet](https://www.concordium.com/wallet) button and get yours from the official website. Ensure to complete the verification. After that, navigate back to the minting page to claim your award.
+3. `Click on mint`: On the minting page, click on the "Mint" button to initiate the process.
+4. `Sign the smart contract`: Sign the SBT contract securely. Ensure you review and understand the terms.
+5. `Open Concordium Wallet`:Once the minting process is successful, open your Concordium wallet to confirm the receipt of your SBT award.
+
+Congratulations! You have successfully received an SBT for participating in a techFiesta. If you encounter any issues, email techFiesta support for assistance.
+
 
 ## Conclusion
 
