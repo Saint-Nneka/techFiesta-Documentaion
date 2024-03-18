@@ -287,11 +287,14 @@ Beyond the rewards of cash and solution, techFiesta offers a gateway to increase
 ![](https://static.wixstatic.com/media/512e79_838f406dab3b4948ae39d8754889af8b~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,usm_0.66_1.00_0.01/512e79_838f406dab3b4948ae39d8754889af8b~mv2.png)
 
 techFiesta users and clients can enjoy several benefits with the Concordium wallet Integration. As a client, you can engage your events to the degree that your regulatory requirements allow. In other words, you can include or exclude specific countries from participating in your techFiestas.
-To implement this, techFiesta has included options that you can select to include or exclude countries in the techFiesta creation process.  You can leave these options unchecked if you prefer to allow all nationalities. Otherwise, select the option most suitable to you and proceed with the process to create your techFiesta.
+To implement this, techFiesta has included options that you can select to include or exclude countries in the techFiesta creation process.
+![](https://res.cloudinary.com/dvwkqsotl/image/upload/v1710755607/techFiesta%20doc/concordium_ID_vhf2ol.jpg)  You can leave these options unchecked if you prefer to allow all nationalities. Otherwise, select the option most suitable to you and proceed with the process to create your techFiesta.
 
 As a techFiesta user, you can join inclusive events. Due to regulatory requirements or host's preferences, participants from certain countries may be included or excluded from joining certain techFiestas. Such regulated techFiestas would require the user's identity verification with the Concordium wallet. If you are yet to download your Concordium wallet, [click on this link to download](https://www.concordium.com/wallet) from the official website. Once your nationality is verified, you can either be allowed to continue participating in the techFiesta or blocked from the project due to failure to meet the regulatory terms. 
 
 ### SBT Awards
+
+![Ekolance Education SBT](https://res.cloudinary.com/dvwkqsotl/image/upload/v1710755608/techFiesta%20doc/Education_SBT_sutevq.jpg)
 
 In addition to the bounty reward for winning a techFiesta, all participants who successfully submit their solution gets awarded a participation SBT. Each techFiesta event has its categoric SBT. The different categories currently available include Education, Workshop, and Participation. 
 
